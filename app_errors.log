@@ -1,0 +1,19 @@
+2025-04-04 23:33:30,346 - ERROR - Authentication Error: Invalid salt
+2025-04-04 23:33:30,383 - ERROR - Error during user input: Invalid salt
+2025-04-04 23:35:54,534 - ERROR - Authentication Error: Invalid salt
+2025-04-04 23:35:54,545 - ERROR - Error during user input: Invalid salt
+2025-04-04 23:41:58,683 - ERROR - Authentication Error: Invalid salt
+2025-04-04 23:41:58,707 - ERROR - Error during user input: Invalid salt
+2025-04-04 23:44:17,763 - ERROR - Authentication Error: Invalid salt
+2025-04-04 23:44:17,774 - ERROR - Error during user input: Invalid salt
+2025-04-04 23:49:44,768 - ERROR - Authentication Error: Invalid salt
+2025-04-04 23:49:44,777 - ERROR - Error during user input: Invalid salt
+2025-04-04 23:52:09,955 - ERROR - Authentication Error: Invalid username or password.
+2025-04-05 17:55:16,647 - ERROR - Authentication Error: Invalid salt
+2025-04-05 17:55:16,668 - ERROR - Error during user input: Invalid salt
+2025-04-05 17:55:38,500 - ERROR - Authentication Error: Invalid salt
+2025-04-05 17:55:38,531 - ERROR - Error during user input: Invalid salt
+2025-04-05 18:09:53,890 - ERROR - Authentication Error: Invalid salt
+2025-04-05 18:09:53,902 - ERROR - Error during user input: Invalid salt
+2025-04-05 20:06:54,060 - ERROR - Authentication Error: Input too long. Username and password must be less than 25 characters.
+2025-04-05 20:06:54,065 - ERROR - Error during user input: cannot access local variable 'conn' where it is not associated with a value
